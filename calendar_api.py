@@ -10,7 +10,7 @@ from googleapiclient.discovery import build
 
 SERVICE_ACCOUNT_FILE = 'credentials_calendar.json'
 SCOPES = ['https://www.googleapis.com/auth/calendar']
-CALENDAR_ID = 'so.gerbary@gmail.com'
+CALENDAR_ID = 'hi@atl5d.com'
 
 SLOTS = ["10:00", "11:00", "12:00", "13:00", "14:00", "15:00", "16:00", "17:00"]
 
